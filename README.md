@@ -41,3 +41,5 @@ Projeto de Edge da Global Solution segundo semestre
 </body>
 
 link do wokwi: https://wokwi.com/projects/399228082419117057
+
+link do vídeo: https://youtu.be/2WvDBB9-GaM
