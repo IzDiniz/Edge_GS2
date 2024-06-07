@@ -1,6 +1,13 @@
 # Edge_GS2
 Projeto de Edge da Global Solution segundo semestre
 
+## Membros
+<ul>
+  <li>Iago Diniz RM:553507</li>
+  <li>Enzzo Monteiro RM:552616</li>
+  <li>Luis Felipe RM:553776</li>
+</ul>
+
 <body>
   <h1>Sobre o Projeto // Informações Básicas</h1>
   <p>
